@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources",
         glue = "openEmr/stepDefinitions",
-        tags = "@smoke",
+        tags = "@smoke1",
         dryRun = false,
         plugin = {"pretty",
                 "html:target/default-cucumber-reports.html",

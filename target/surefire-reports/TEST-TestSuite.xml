@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="0" failures="0" name="TestSuite" time="0.927" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="/Users/aatug/.m2/repository"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="env.XPC_SERVICE_NAME" value="application.com.jetbrains.intellij.3912899.3913699"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="env.TMPDIR" value="/var/folders/dc/frqr3r013rd0n8ktl1k5gfrw0000gq/T/"/>
+    <property name="env.PWD" value="/Users/aatug/IdeaProjects/open_EMR"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.version" value="11.0.15+8-LTS-149"/>
+    <property name="user.name" value="aatug"/>
+    <property name="maven.build.version" value="Apache Maven 3.8.1 (05c21c65bdfed0f71a2f2ada8b84da59348c4c5d)"/>
+    <property name="env.USER" value="aatug"/>
+    <property name="env.SHELL" value="/bin/zsh"/>
+    <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F7:0x0:0x0"/>
+    <property name="env.PATH" value="/Users/aatug/.volta/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"/>
+    <property name="user.language" value="en"/>
+    <property name="idea.version" value="2022.1.3"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.15.jdk/Contents/Home/lib"/>
+    <property name="classworlds.conf" value="/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/bin/m2.conf"/>
+    <property name="env.XPC_FLAGS" value="0x0"/>
+    <property name="env.LC_CTYPE" value="en_US.UTF-8"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.version" value="11.0.15"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/conf"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="user.country" value="US"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.15.jdk/Contents/Home"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="env.LOGNAME" value="aatug"/>
+    <property name="os.version" value="12.6"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="11.0.15+8-LTS-149"/>
+    <property name="env.__CFBundleIdentifier" value="com.jetbrains.intellij"/>
+    <property name="maven.ext.class.path" value="/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven-event-listener.jar"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="env.JAVA_MAIN_CLASS_13610" value="org.codehaus.classworlds.Launcher"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="user.home" value="/Users/aatug"/>
+    <property name="env.OLDPWD" value="/"/>
+    <property name="java.version.date" value="2022-04-19"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.library.path" value="/Users/aatug/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="maven.home" value="/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2022.1.3 clean test"/>
+    <property name="java.class.path" value="/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="maven.version" value="3.8.1"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="env.HOME" value="/Users/aatug"/>
+    <property name="surefire.test.class.path" value="/Users/aatug/IdeaProjects/open_EMR/target/test-classes:/Users/aatug/IdeaProjects/open_EMR/target/classes:/Users/aatug/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/aatug/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/aatug/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/aatug/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/aatug/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/aatug/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/aatug/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/aatug/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/aatug/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/aatug/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/aatug/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/aatug/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/aatug/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/aatug/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/aatug/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/aatug/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/aatug/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/aatug/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/aatug/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/aatug/.m2/repository/io/cucumber/cucumber-java/7.0.0/cucumber-java-7.0.0.jar:/Users/aatug/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/aatug/.m2/repository/io/cucumber/cucumber-junit/7.3.3/cucumber-junit-7.3.3.jar:/Users/aatug/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/Users/aatug/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/aatug/.m2/repository/org/junit/platform/junit-platform-launcher/1.4.0/junit-platform-launcher-1.4.0.jar:/Users/aatug/.m2/repository/org/junit/platform/junit-platform-engine/1.4.0/junit-platform-engine-1.4.0.jar:/Users/aatug/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/aatug/.m2/repository/org/junit/platform/junit-platform-commons/1.4.0/junit-platform-commons-1.4.0.jar:/Users/aatug/.m2/repository/io/cucumber/cucumber-core/7.0.0/cucumber-core-7.0.0.jar:/Users/aatug/.m2/repository/io/cucumber/cucumber-gherkin/7.0.0/cucumber-gherkin-7.0.0.jar:/Users/aatug/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.0.0/cucumber-gherkin-messages-7.0.0.jar:/Users/aatug/.m2/repository/io/cucumber/messages/17.1.1/messages-17.1.1.jar:/Users/aatug/.m2/repository/io/cucumber/tag-expressions/4.0.2/tag-expressions-4.0.2.jar:/Users/aatug/.m2/repository/io/cucumber/cucumber-expressions/13.0.1/cucumber-expressions-13.0.1.jar:/Users/aatug/.m2/repository/io/cucumber/datatable/7.0.0/datatable-7.0.0.jar:/Users/aatug/.m2/repository/io/cucumber/cucumber-plugin/7.0.0/cucumber-plugin-7.0.0.jar:/Users/aatug/.m2/repository/io/cucumber/docstring/7.0.0/docstring-7.0.0.jar:/Users/aatug/.m2/repository/io/cucumber/html-formatter/17.0.0/html-formatter-17.0.0.jar:/Users/aatug/.m2/repository/io/cucumber/create-meta/6.0.1/create-meta-6.0.1.jar:/Users/aatug/.m2/repository/io/github/bonigarcia/webdrivermanager/5.0.3/webdrivermanager-5.0.3.jar:/Users/aatug/.m2/repository/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar:/Users/aatug/.m2/repository/com/google/code/gson/gson/2.8.8/gson-2.8.8.jar:/Users/aatug/.m2/repository/org/jsoup/jsoup/1.14.2/jsoup-1.14.2.jar:/Users/aatug/.m2/repository/com/github/docker-java/docker-java/3.2.12/docker-java-3.2.12.jar:/Users/aatug/.m2/repository/com/github/docker-java/docker-java-core/3.2.12/docker-java-core-3.2.12.jar:/Users/aatug/.m2/repository/com/github/docker-java/docker-java-api/3.2.12/docker-java-api-3.2.12.jar:/Users/aatug/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar:/Users/aatug/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/Users/aatug/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar:/Users/aatug/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar:/Users/aatug/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar:/Users/aatug/.m2/repository/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64.jar:/Users/aatug/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar:/Users/aatug/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar:/Users/aatug/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.2.12/docker-java-transport-httpclient5-3.2.12.jar:/Users/aatug/.m2/repository/com/github/docker-java/docker-java-transport/3.2.12/docker-java-transport-3.2.12.jar:/Users/aatug/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.0.3/httpclient5-5.0.3.jar:/Users/aatug/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.0.2/httpcore5-5.0.2.jar:/Users/aatug/.m2/repository/net/java/dev/jna/jna/5.8.0/jna-5.8.0.jar:/Users/aatug/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar:/Users/aatug/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar:/Users/aatug/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar:/Users/aatug/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/Users/aatug/.m2/repository/io/rest-assured/rest-assured/4.4.0/rest-assured-4.4.0.jar:/Users/aatug/.m2/repository/org/codehaus/groovy/groovy/3.0.8/groovy-3.0.8.jar:/Users/aatug/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.8/groovy-xml-3.0.8.jar:/Users/aatug/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/aatug/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/aatug/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/aatug/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/aatug/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/aatug/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/aatug/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/aatug/.m2/repository/io/rest-assured/json-path/4.4.0/json-path-4.4.0.jar:/Users/aatug/.m2/repository/org/codehaus/groovy/groovy-json/3.0.8/groovy-json-3.0.8.jar:/Users/aatug/.m2/repository/io/rest-assured/rest-assured-common/4.4.0/rest-assured-common-4.4.0.jar:/Users/aatug/.m2/repository/io/rest-assured/xml-path/4.4.0/xml-path-4.4.0.jar:/Users/aatug/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/Users/aatug/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/Users/aatug/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.3/jaxb-impl-2.3.3.jar:/Users/aatug/.m2/repository/org/testng/testng/7.5/testng-7.5.jar:/Users/aatug/.m2/repository/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar:/Users/aatug/.m2/repository/com/beust/jcommander/1.78/jcommander-1.78.jar:/Users/aatug/.m2/repository/org/webjars/jquery/3.5.1/jquery-3.5.1.jar:/Users/aatug/.m2/repository/org/json/json/20211205/json-20211205.jar:/Users/aatug/.m2/repository/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2.jar:/Users/aatug/.m2/repository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/aatug/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23-android.jar:/Users/aatug/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar:/Users/aatug/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:"/>
+    <property name="java.io.tmpdir" value="/var/folders/dc/frqr3r013rd0n8ktl1k5gfrw0000gq/T/"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/aatug/IdeaProjects/open_EMR"/>
+    <property name="env.SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.gUMvj4gR5d/Listeners"/>
+    <property name="env.COMMAND_MODE" value="unix2003"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="env.VOLTA_HOME" value="/Users/aatug/.volta"/>
+    <property name="user.dir" value="/Users/aatug/IdeaProjects/open_EMR"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="basedir" value="/Users/aatug/IdeaProjects/open_EMR"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="java.vendor.version" value="18.9"/>
+  </properties>
+</testsuite>
